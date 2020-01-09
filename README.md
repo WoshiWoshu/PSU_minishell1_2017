@@ -5,8 +5,13 @@ USAGE : 1) Make 2) ./mysh
 
 Exemple :
 $> ls
+
 $> env
+
 $> mkdir test
+
 $> cd test
+
 $> touch test.txt
+
 $> exit
